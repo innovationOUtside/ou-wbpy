@@ -7,7 +7,7 @@ Usage:
 ```python
 from ou_wbpy.api import wbapi
 
-api=wbapi()
+api = wbapi()
 api.get_dataframe("SP.POP.TOTL", date="2010:2012")
 
 ```
