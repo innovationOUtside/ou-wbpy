@@ -12,4 +12,4 @@ api.get_dataframe("SP.POP.TOTL", date="2010:2012")
 
 ```
 
-Uses pyodide load machinery in Pyodide JupyterLite kernel (detected by trying `import pyodide`, else uses normal Pyhton url loaders).
+Uses pyodide load machinery in Pyodide JupyterLite kernel (detected by trying `import pyodide`, else uses normal Python url loaders).
