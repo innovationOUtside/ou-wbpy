@@ -1,6 +1,6 @@
 # ou-wbpy
 
-Slight fork of `wbpy` for use in JupyterLite / OpenLearn Learn to Code for Data Analysis.
+Slight fork of / wrapper for `wbpy` for use in JupyterLite / OpenLearn Learn to Code for Data Analysis.
 
 Usage:
 
