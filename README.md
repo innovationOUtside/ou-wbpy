@@ -17,7 +17,7 @@ Uses pyodide load machinery in Pyodide JupyterLite kernel (detected by trying `i
 
 ## Using `pandas-datareader`
 
-I originally hacked `ou-wbyp` from reviewing all the World Bank API reading packaged I found whilst looking for a replacement for the [`pandas-datareader`](pandas-datareader) package (which was originally pulled out of the main `pandas` package), which doesn't work out of the can in Pyodide.
+I originally hacked `ou-wbpy` from reviewing all the World Bank API reading packaged I found whilst looking for a replacement for the [`pandas-datareader`](pandas-datareader) package (which was originally pulled out of the main `pandas` package), which doesn't work out of the can in Pyodide.
 
 But - it does, with a patch...
 
