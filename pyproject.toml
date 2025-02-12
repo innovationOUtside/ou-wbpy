@@ -1,7 +1,7 @@
 [project]
 name = "ou-wbpy"
 version = "0.0.1"
-description = "LLM plugin for running models using llama.cpp"
+description = "Simple wrapper for running wbpy in JupyterLite"
 readme = "README.md"
 authors = [{name = "Tony Hirst"}]
 license = {text = "MIT"}
